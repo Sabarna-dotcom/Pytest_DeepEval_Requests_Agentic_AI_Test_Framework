@@ -1,0 +1,19 @@
+
+{
+    "tc_006": [
+        {
+            "task": "Reverse string through API",
+            "payload": {
+                "prompt": "Reverse the word Strands"
+            },
+            "expected_output": "sdnartS"
+        },
+        {
+            "task": "Count character through API",
+            "payload": {
+                "prompt": "Count the occurrences of letter a in banana"
+            },
+            "expected_output": "3"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "tc_002": [
+        {
+            "task": "Reverse the word Strands",
+            "prompt": "Use the reverse_string tool to reverse the word Strands."
+        },
+        {
+            "task": "The agent must use the letter_counter tool to count the occurrences of the lowercase letter 'a' in the word 'banana'. The expected count is 3. The task is complete only if the agent correctly performs the count and returns the result.",
+            "prompt": "Use the letter_counter tool to count how many times the letter a appears in banana."
+        }   
+    ]
+}

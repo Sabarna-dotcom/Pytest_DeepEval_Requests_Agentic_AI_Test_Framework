@@ -1,0 +1,17 @@
+
+{
+    "tc_005": [
+        {
+            "task": "Empty prompt",
+            "payload": {
+                "prompt": ""
+            },
+            "expected_status": 422
+        },
+        {
+            "task": "Missing prompt",
+            "payload": {},
+            "expected_status": 422
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+strands-agents
+strands-agents[ollama]
+deepeval
+pytest-html
+pytest
+fastapi
+uvicorn
+requests

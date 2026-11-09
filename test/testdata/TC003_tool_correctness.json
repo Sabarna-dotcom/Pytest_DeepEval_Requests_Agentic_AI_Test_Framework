@@ -1,0 +1,14 @@
+{
+    "tc_003": [
+        {
+            "task": "Reverse the word Strands",
+            "prompt": "Reverse the word Strands using the available tool.",
+            "expected_tools": ["reverse_string"]
+        },
+        {
+            "task": "Count the letter a in banana",
+            "prompt": "Count the occurrences of the letter a in banana using the available tool.",
+            "expected_tools": ["letter_counter"]
+        }
+    ]
+}
